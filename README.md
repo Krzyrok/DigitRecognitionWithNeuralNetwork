@@ -1,4 +1,3 @@
 # DigitRecognitionWithNeuralNetwork
 
-Neural network created in C#. 
-<br/>Digit recognition using neural network
+<br/>Digit recognition using neural network created in C#
